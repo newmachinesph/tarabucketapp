@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "expo@expo-plugins": true,
+    "skills@swmansion": true
+  }
+}
